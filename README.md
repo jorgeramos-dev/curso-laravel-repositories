@@ -1,13 +1,13 @@
-# Laravel - Repository Pattern
+## 💻 Curso: Laravel - Repository Pattern
 
-## Sobre
+- Código do curso Laravel Repository Pattern da EspecializaTi Academy - Prof. Carlos Ferreira.
 
-Neste projeto, vamos mostrar exemplos de uso de Repositórios em aplicações Laravel.
+☑️ Neste projeto, vamos mostrar exemplos de uso de Repositórios em aplicações Laravel versão 10.
 
 <blockquote cite="https://chat.openai.com">
 O padrão Repository é uma abordagem para isolar a lógica de acesso a dados da aplicação, tornando-a mais testável e desacoplada do código de negócios. No Laravel, o padrão Repository pode ser aplicado tanto para banco de dados quanto para APIs. Para usar o padrão Repository com banco de dados no Laravel, você pode criar uma interface para definir os métodos de acesso aos dados que serão implementados por uma classe concreta.</blockquote>
 
-## Dicas
+## :books: Conteúdos
 
 <ol><li>
 <b>Abstração adequada dos detalhes de implementação:</b> A interface do repositório deve abstrair os detalhes de implementação do banco de dados ou da API. O código de negócios da aplicação deve ser capaz de trabalhar com a interface do repositório sem saber como os dados são armazenados ou acessados.
