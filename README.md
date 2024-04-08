@@ -7,6 +7,7 @@
 <blockquote cite="https://chat.openai.com">
 O padrão Repository é uma abordagem para isolar a lógica de acesso a dados da aplicação, tornando-a mais testável e desacoplada do código de negócios. No Laravel, o padrão Repository pode ser aplicado tanto para banco de dados quanto para APIs. Para usar o padrão Repository com banco de dados no Laravel, você pode criar uma interface para definir os métodos de acesso aos dados que serão implementados por uma classe concreta.</blockquote>
 
+
 ## :books: Conteúdos
 
 <ol><li>
